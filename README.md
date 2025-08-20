@@ -5,7 +5,7 @@ Mục tiêu chính là giúp hiểu rõ cơ chế biến đổi Fourier trên mi
 
 ---
 
-## 📌 Nội dung chính
+## Nội dung chính
 - **Tính toán DFT**: Chuyển đổi tín hiệu từ miền thời gian sang miền tần số.  
 - **Tính toán IDFT**: Khôi phục tín hiệu ban đầu từ miền tần số.  
 - **So sánh**: Đối chiếu tín hiệu gốc và tín hiệu tái tạo sau IDFT để kiểm chứng.  
@@ -32,7 +32,7 @@ Mục tiêu chính là giúp hiểu rõ cơ chế biến đổi Fourier trên mi
 
 ---
 
-## 🚀 Cách chạy chương trình
+##  Cách chạy chương trình
 1. Clone repo về máy:
    ```bash
    git clone https://github.com/NguyenDang010603/DFT-IDFT-.git
@@ -43,19 +43,19 @@ Mục tiêu chính là giúp hiểu rõ cơ chế biến đổi Fourier trên mi
 
 ---
 
-## 🖼️ Kết quả kỳ vọng
+##  Kết quả kỳ vọng
 - Đồ thị tín hiệu gốc.  
 - Phổ biên độ/pha sau DFT.  
 - Tín hiệu khôi phục được sau IDFT gần như trùng khớp tín hiệu gốc.  
 
 ---
 
-## 📖 Ứng dụng
+##  Ứng dụng
 - Phân tích tín hiệu trong xử lý tín hiệu số (DSP).  
 - Hiểu cơ chế của biến đổi Fourier trong thực tế.  
 - Cơ sở cho các ứng dụng nâng cao như xử lý âm thanh, hình ảnh, truyền thông số.
 
 ---
 
-## 👤 Tác giả
+## Tác giả
 Nguyễn Đăng – Repo phục vụ học tập và minh họa nguyên lý DFT/IDFT.
